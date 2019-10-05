@@ -22,3 +22,5 @@ for (let i = 3; i <= 2; i += 3) {
 
 // Calcular el promedio de todos los números en un array de números. (y ponerlo en una función)
 // ej.: calcularPromedio([10,5,4,2,8])
+
+// Test
